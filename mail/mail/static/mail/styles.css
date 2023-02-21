@@ -1,0 +1,11 @@
+textarea {
+    min-height: 400px;
+}
+
+
+.mail {
+    border-color:black;
+    height:200px;
+    margin-bottom:50px;
+
+}
